@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, welcome to my Myspace 👨🏻‍🦰☕
+
+* 🛋️ Building design systems at Wayfair
+* 💻 Building components, systems, and tools for others to make accessible and awesome products
+* ✌️ Currently obbsesed with Vim (see my [dotfiles](https://github.com/roginfarrer/dotfiles))
+* 💁🏻‍♂️ [My website](https://rogin.xyz), where I write a blog once a year
+* 😃 Pronouns: he/him
+
 
 <!--
 **roginfarrer/roginfarrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
